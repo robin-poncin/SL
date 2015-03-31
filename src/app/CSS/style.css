@@ -1,0 +1,22 @@
+
+
+body {
+	background-color: #2b303b;
+}
+
+.size {
+	max-width: 1000px;
+	margin: auto;	
+}
+
+.top-space {
+	margin-top: 100px;
+}
+
+.panel:hover {
+	border-color: red;
+}
+
+.active {
+	background-color: green;
+}
