@@ -17,6 +17,17 @@ body {
 	border-color: red;
 }
 
+.foot{
+	padding-top: 0px;
+	padding-bottom: 2px;
+}
+
+.tag{
+	background-color: #2b303b;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
 .active {
 	background-color: green;
 }
