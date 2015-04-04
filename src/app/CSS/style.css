@@ -21,17 +21,20 @@ body {
 	margin-bottom:-20px;
 	maxwidth:1000px;
 	position:relative;
-	top:130px;
+	top:150px;
 }
 
 .foot{
 	padding-top: 0px;
 	padding-bottom: 0px;
 }
+.nv{
+	padding-top: 5px;
+}
 
-.tag{
-	background-color: #2b303b;
-	padding-top: 2px;
-	padding-bottom: 2px;
+.tg{
+
+	margin-top:5px;
+
 }
 
