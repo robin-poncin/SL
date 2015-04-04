@@ -5,7 +5,7 @@ body {
 }
 
 .size {
-	max-width: 1000px;
+	max-width: 1200px;
 	margin: auto;	
 }
 
@@ -15,11 +15,18 @@ body {
 
 .panel:hover {
 	border-color: red;
+
+}
+.pan{
+	margin-bottom:-20px;
+	maxwidth:1000px;
+	position:relative;
+	top:130px;
 }
 
 .foot{
 	padding-top: 0px;
-	padding-bottom: 2px;
+	padding-bottom: 0px;
 }
 
 .tag{
@@ -28,6 +35,3 @@ body {
 	padding-bottom: 2px;
 }
 
-.active {
-	background-color: green;
-}
